@@ -1,0 +1,22 @@
+{
+  "name": "get-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_Json_Data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AqibHameed/Get_Data.git"
+  },
+  "author": "Amin Shah Gilani <aminshahgilani@gmail.com> (http://amin.gilani.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AqibHameed/Get_Data/issues"
+  },
+  "homepage": "https://github.com/AqibHameed/Get_Data#readme",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
